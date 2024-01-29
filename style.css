@@ -7,3 +7,16 @@ header{
     width: 33%;
     padding-top: 100px;
 }
+
+h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+#testo-azzurro{
+    color:  #20A9E5;
+}
+
+#crediti{
+    color: #808080;
+}
