@@ -58,14 +58,13 @@ h1{
 
 #primo-consiglio{
     background-image: url(./img/monitor.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    width: 312px;
-    height: 208px;
 }
 
 #secondo-consiglio{
-    background-image: url(./img/graph.jpg);
+    background-image: url(./img/graph.jpg);   
+}
+
+.dimensioni-img{
     background-repeat: no-repeat;
     background-size: contain;
     width: 312px;
