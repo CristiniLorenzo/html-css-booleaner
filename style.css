@@ -19,4 +19,9 @@ h1{
 
 #crediti{
     color: #808080;
+    margin-bottom: 20px;
+}
+
+#photo-desc{
+    font-size: 13px;
 }
