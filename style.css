@@ -26,10 +26,28 @@ h1{
     font-size: 13px;
 }
 
-#testo-articolo{
+.testo-articolo, #tabella{
     font-weight: 550;
 }
 
 #evidenziato{
     background-color: yellow;
+}
+
+#tabella{
+    width: 100%;
+}
+
+#th{
+    background-color: #20A9E5;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.riga-dispari{
+    background-color: #B1E5F2;
+}
+
+.colonna-stretta{
+    width: 25%;
 }
