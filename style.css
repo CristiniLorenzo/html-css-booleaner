@@ -25,3 +25,11 @@ h1{
 #photo-desc{
     font-size: 13px;
 }
+
+#testo-articolo{
+    font-weight: 550;
+}
+
+#evidenziato{
+    background-color: yellow;
+}
